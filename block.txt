@@ -27,3 +27,4 @@ deviceservices-external.apple.com
 *.push.apple.com
 ws-ee-maidsvc.icloud.com
 *.mzstatic.com
+bpapi.v.aaplimg.com
